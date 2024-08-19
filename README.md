@@ -1,2 +1,3 @@
 # python-MySQL
-Learning python and mysql
+Python can be used in database applications.
+One of the most popular databases is MySQL.
